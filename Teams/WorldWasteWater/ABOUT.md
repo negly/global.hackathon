@@ -1,4 +1,4 @@
-WorldWasteWater
+WorldWastesWater
 ================
 
 We are a team from 5 different countries.
